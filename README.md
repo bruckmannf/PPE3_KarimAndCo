@@ -60,11 +60,9 @@ Une documentation utilisateur est disponible aussi : [Document](https://docs.goo
 - 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`.
 
 #### INFORMATIONS IMPORTANTES
-⚠ Pour utiliser les pleines capacités du logiciel, il est conseillé d'avoir une base de données **MySQL**.
-⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier PPE3_KarimAndCo.sql avec la plateforme **phpMyAdmin** !
-⚠ N'oubliez pas de télécharger les dépendances pour le bon fonctionnement du logiciel !
+- ⚠ Pour utiliser les pleines capacités du logiciel, il est conseillé d'avoir une base de données **MySQL**.
+- ⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier PPE3_KarimAndCo.sql avec la plateforme **phpMyAdmin** !
+- ⚠ N'oubliez pas de télécharger les dépendances pour le bon fonctionnement du logiciel !
 
 #### CREDIT
 BTS SIO option SLAM, lycée Jean Lurçat Perpignan
-
-[![forthebadge made-with-java]( https://forthebadge.com/images/badges/made-with-java.svg )](https://www.python.org/)
