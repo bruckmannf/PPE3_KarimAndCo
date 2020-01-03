@@ -44,6 +44,10 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 
 [<img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">](https://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar)
 
+[<img src="https://img.shields.io/badge/acrobat-1.1-success">](http://central.maven.org/maven2/com/adobe/acrobat/acrobat/1.1/)
+
+[<img src="https://img.shields.io/badge/itextpdf-5.5.13.1-success">](https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.5.13.1)
+
 </p>
 
 #### Documentation
