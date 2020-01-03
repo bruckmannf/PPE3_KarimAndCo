@@ -59,11 +59,11 @@ Une documentation utilisateur est aussi disponible [ici](https://docs.google.com
 #### Téléchargement du logiciel
 - 1ère méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
     
-- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`
+- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish` :
 
-Pour le **PPE3** voici les informations nécessaires : [cliquez-ici](https://docs.google.com/document/d/15ZVClDCdQMAE44xiKp6cXZA4lnkenyuuymlzlG8Hg_Y/edit?usp=sharing).
+![](file:///C:/Users/User/Desktop/hjny.JPG)
 
-⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier ppe3.sql avec **phpMyAdmin** !
+⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier PPE3_KarimAndCo.sql avec la plateforme **phpMyAdmin** !
 
 #### Lancement du logiciel
 Il suffit de lancer la classe **com.pradyna.main.ppe3** !
