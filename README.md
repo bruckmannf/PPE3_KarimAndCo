@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/project-maven-red">
 </p>
 
-###  PPE n°3 Karim & Co - Création et gestion de CV
+###  PPE n°3 Karim & Co : Création et gestion de CV
 ---
 
 #### INTRODUCTION
