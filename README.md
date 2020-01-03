@@ -8,11 +8,11 @@
 <img src="https://img.shields.io/badge/project-maven-red">
 </p>
 
-###  Projet personnel encadré n°3 - Création et gestion d'un ou plusieurs curriculum vitæ
+###  PPE n°3 Karim & Co - Création et gestion de CV
 ---
 
 #### Introduction
-Dans le cadre des PPE, j'ai créer un logiciel en Java permettant de **créer** et de **gérer** un ou plusieurs **CV**. La création du logiciel a été facilitée avec l'aide de mes camarades qui ont réalisés par groupe de 2 ou 3, des **composants**. Le **but** de ce PPE était de **réunir** tous les composants, faire des **modifications**, et des **ajouts** afin de répondre à un besoin.
+Dans le cadre des PPE, j'ai crée un logiciel en Java permettant de **créer** et de **gérer** un ou plusieurs **CV**. La création du logiciel a été facilitée avec l'aide de mes camarades qui ont réalisés par groupe de 2 ou 3, des **composants**. Le **but** de ce PPE était de **réunir** tous les composants, faire des **modifications**, et des **ajouts** afin de répondre à un besoin.
 
 #### Fonctionnalités
 Avec ce logiciel on peut :
@@ -37,9 +37,7 @@ Avec ce logiciel on peut :
 	- Importer et exporter les données d'un ou plusieurs compte(s) en JSON, XML, CSV
 - Exporter le CV en PDF
 
-#### Pré-requis pour utiliser le logiciel
- - Avoir une base de données **MySQL**
- - Avoir une application sur **Google** (et un compte client OAuth 2.0) et/ou **Facebook** pour utiliser leurs services (**facultatif**)
+#### Pour utiliser les pleins capacités du logiciel il est conseillé d'avoir une base de données MySQL.
 
 #### Téléchargement du logiciel
 - 1ère méthode :  [cliquez-ici](https://github.com/pawel956/ppe3/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
