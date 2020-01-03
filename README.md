@@ -51,7 +51,7 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 </p>
 
 #### Documentation
-La JavaDoc est disponible dans le dossier `docs` mais aussi [javadoc](https://aliaspedrokarim.github.io/KarimAndCo_Composant4/)  
+Le diagramme de classe est disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
 Une documentation utilisateur est aussi disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
 
 #### Pour utiliser les pleins capacités du logiciel il est conseillé d'avoir une base de données MySQL.
@@ -59,14 +59,9 @@ Une documentation utilisateur est aussi disponible [ici](https://docs.google.com
 #### Téléchargement du logiciel
 - 1ère méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
     
-- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/pawel956/ppe3.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`
-
-#### Configuration du logiciel
-Pour que le logiciel fonctionne, il faut **éditer** le fichier **src\main\java\com\pradyna\constants\Constants.java.example**, saisir les informations demandées et renommer le fichier en **Constants.java**.
+- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`
 
 Pour le **PPE3** voici les informations nécessaires : [cliquez-ici](https://docs.google.com/document/d/15ZVClDCdQMAE44xiKp6cXZA4lnkenyuuymlzlG8Hg_Y/edit?usp=sharing).
-
-Si vous n'avez pas accès au document, il faut mettre les informations de votre base de données et pour les autres informations, il faut aller sur les sites de [Google](https://console.developers.google.com/) et de [Facebook](https://developers.facebook.com/). Si vous préférez, vous pouvez **désactiver** la connexion via Google et/ou Facebook, il suffit de mettre false aux propriétés **SIGN_UP_VIA_*_IS_ENABLED**.
 
 ⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier ppe3.sql avec **phpMyAdmin** !
 
