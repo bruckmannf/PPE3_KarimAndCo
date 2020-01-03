@@ -1,0 +1,5 @@
+id; statut; identifiant; nom; prenom; num_telephone; courriel; date_de_naissance; photo; id; titre; description; signature; nom_maitrise; maitrise; id_utilisateur
+1; 0; Geleetz; ergreg; gergr; 0454545454; ferfvergv@gmail.com; 14-05-2000; com.mysql.jdbc.Blob@2546a240
+2; 1; ZenoSama; Bruckmann; Florian; 0611365007; florian@gmail.com; 10-10-2000; com.mysql.jdbc.Blob@77c29b9b
+5; 0; TestSympa; michel; jean; 0611365007; sympa@gmail.com; 10-10-2000; com.mysql.jdbc.Blob@24068712
+18; 0; KikooCS; Fregolent; Damien; 0611365007; damien@gmail.com; 10-12-2000; com.mysql.jdbc.Blob@10c7a37a

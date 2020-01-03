@@ -1,0 +1,181 @@
+{
+"utilisateurs": [{
+"id": "2",
+"statut": "1",
+"identifiant": "ZenoSama",
+"nom": "Bruckmann",
+"prenom": "Florian",
+"num_telephone": "0611365007",
+"courriel": "florian@gmail.com",
+"date_de_naissance": "10-10-2000",
+"photo": "com.mysql.jdbc.Blob@6df1ce23"
+},
+{
+"id": "5",
+"statut": "0",
+"identifiant": "TestSympa",
+"nom": "michel",
+"prenom": "jean",
+"num_telephone": "0611365007",
+"courriel": "sympa@gmail.com",
+"date_de_naissance": "10-10-2000",
+"photo": "com.mysql.jdbc.Blob@439d0f41"
+},
+{
+"id": "18",
+"statut": "0",
+"identifiant": "KikooCS",
+"nom": "Fregolent",
+"prenom": "Damien",
+"num_telephone": "0611365007",
+"courriel": "damien@gmail.com",
+"date_de_naissance": "10-12-2000",
+"photo": "com.mysql.jdbc.Blob@7680dbd2"
+},
+{
+"id": "19",
+"statut": "0",
+"identifiant": "Geleetz",
+"nom": "Bruckmann",
+"prenom": "Florian",
+"num_telephone": "0611365007",
+"courriel": "florian.bruckmann66@gmail.com",
+"date_de_naissance": "10-10-2000",
+"photo": "com.mysql.jdbc.Blob@199a5e8e"
+}
+],"cv": [{
+"id": "4",
+"titre": "ergeg",
+"description": "ergerg",
+"signature": "BRUCKMANN Bruckmann",
+"nom_maitrise": "erger",
+"maitrise": "50",
+"id_utilisateur": "2"
+},
+{
+"id": "6",
+"titre": "CV Caissier Auchan",
+"description": "je suis gentil, prenais moi",
+"signature": "FREGOLENT Fregolent",
+"nom_maitrise": "CS ",
+"maitrise": "1",
+"id_utilisateur": "18"
+},
+{
+"id": "7",
+"titre": "CV test",
+"description": "test",
+"signature": "BRUCKMANN Bruckmann",
+"nom_maitrise": "Test1",
+"maitrise": "40",
+"id_utilisateur": "19"
+}
+],"experience_pro": [{
+"id": "1",
+"entreprise": "tyhty",
+"adresse": "tyhtyh",
+"description": "htyhtyhtyh",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "1"
+},
+{
+"id": "2",
+"entreprise": "rtgrt",
+"adresse": "rtgrtg",
+"description": "rtgrtgrt",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "2"
+},
+{
+"id": "3",
+"entreprise": "cc",
+"adresse": "cc",
+"description": "cc",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "3"
+},
+{
+"id": "4",
+"entreprise": "ergre",
+"adresse": "erge",
+"description": "ergreg",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "4"
+},
+{
+"id": "5",
+"entreprise": "Wizard Family",
+"adresse": "auchan perpignan",
+"description": "il head shot sa mère",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "6"
+},
+{
+"id": "6",
+"entreprise": "test",
+"adresse": "test",
+"description": "test",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "7"
+}
+],"formation": [{
+"id": "1",
+"nom": "tyhyth",
+"lieu": "tyhtyh",
+"description": "tyhtyht",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "1"
+},
+{
+"id": "2",
+"nom": "trgrtg",
+"lieu": "rtgrtg",
+"description": "rtgrgrtgrtg",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "2"
+},
+{
+"id": "3",
+"nom": "cc",
+"lieu": "cc",
+"description": "cc",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "3"
+},
+{
+"id": "4",
+"nom": "gergreg",
+"lieu": "ergeg",
+"description": "ergre",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "4"
+},
+{
+"id": "5",
+"nom": "cc",
+"lieu": "dzedezd",
+"description": "ezdezdze",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "5"
+},
+{
+"id": "6",
+"nom": "BTS SIO SLAM",
+"lieu": "Lycée jean lurçat",
+"description": "test",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "7"
+}
+]}
