@@ -51,17 +51,20 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 </p>
 
 #### DOCUMENTATION
-Le diagramme de classe est disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
-Une documentation utilisateur est aussi disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
+Le diagramme de classe est disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
+Une documentation utilisateur est disponible aussi : [Document](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
 
-#### Pour utiliser les pleins capacités du logiciel il est conseillé d'avoir une base de données MySQL.
-
-#### Téléchargement du logiciel
+#### TELECHARGEMENT DU LOGICIEL
 - 1ère méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
     
 - 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`.
 
+#### INFORMATIONS IMPORTANTES
+⚠ Pour utiliser les pleines capacités du logiciel, il est conseillé d'avoir une base de données **MySQL**.
 ⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier PPE3_KarimAndCo.sql avec la plateforme **phpMyAdmin** !
+⚠ N'oubliez pas de télécharger les dépendances pour le bon fonctionnement du logiciel !
 
-#### Lancement du logiciel
-Il suffit de lancer la classe **com.pradyna.main.ppe3** !
+#### CREDIT
+BTS SIO option SLAM, lycée Jean Lurçat Perpignan
+
+[![forthebadge made-with-java]( https://forthebadge.com/images/badges/made-with-java.svg )](https://www.python.org/)
