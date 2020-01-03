@@ -38,7 +38,11 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 
 <p align="center">
 
-[![Generic badge](https://img.shields.io/badge/weblaf-v1.2.9-success)](https://github.com/mgarin/weblaf) [![Generic badge](https://img.shields.io/badge/mysql--connector--j-v5.1.48-success)](https://github.com/mysql/mysql-connector-j)[![Generic badge](https://img.shields.io/badge/acrobat-1.1)][![Generic badge](https://img.shields.io/badge/commons-net-3.6)][![Generic badge](https://img.shields.io/badge/itextpdf-5.5.13.1)]
+[![Generic badge](https://img.shields.io/badge/weblaf-v1.2.9-success)](https://github.com/mgarin/weblaf) 
+
+[<img src="https://img.shields.io/badge/commons--net-3.6-success">](http://mirrors.ircam.fr/pub/apache//commons/net/binaries/commons-net-3.6-bin.zip)  
+
+[<img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">](https://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar)
 
 </p>
 
