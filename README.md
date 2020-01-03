@@ -11,10 +11,10 @@
 ###  PPE n°3 Karim & Co - Création et gestion de CV
 ---
 
-#### Introduction
+#### INTRODUCTION
 Dans le cadre des PPE de la deuxième année de BTS SIO Option SLAM, j'ai conçu un logiciel Java permettant de **créer**/**gérer** un ou plusieurs **CV**. La création du logiciel Karim&Co a été facilitée avec l'aide de mes camarades qui ont réalisés par groupe des **composants**/**modules**. Le **but** de ce PPE était de **réunir** tous les composants, faire des **modifications**, et des **ajouts** afin de répondre à un besoin étant ici, faire un logiciel complet de création et de gestion des CV des étudiants.
 
-#### Fonctionnalités
+#### FONCTIONNALITES
 Avec le logiciel Karim & Co, on peut :
 - **S'inscrire** :
     - Vérification du format des informations saisies dans les champs,
@@ -33,18 +33,18 @@ Avec le logiciel Karim & Co, on peut :
 	- Importer et exporter les données des utilisateurs en JSON, XML et CSV,
 - **Exporter le CV en PDF**
 
-#### Dépendance
-_Pour ce qui concerne les dépendance voir le fichier `pom.xml`_
+#### DEPENDANCE
+Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 
 <p align="center">
 
-[![Generic badge](https://img.shields.io/badge/weblaf-v1.2.9-success)](https://github.com/mgarin/weblaf) [![Generic badge](https://img.shields.io/badge/mysql--connector--j-v5.1.48-success)](https://github.com/mysql/mysql-connector-j)
+[![Generic badge](https://img.shields.io/badge/weblaf-v1.2.9-success)](https://github.com/mgarin/weblaf) [![Generic badge](https://img.shields.io/badge/mysql--connector--j-v5.1.48-success)](https://github.com/mysql/mysql-connector-j)[![Generic badge](https://img.shields.io/badge/acrobat-1.1)][![Generic badge](https://img.shields.io/badge/commons-net-3.6)][![Generic badge](https://img.shields.io/badge/itextpdf-5.5.13.1)]
 
 </p>
 
 #### Documentation
-_La JavaDoc est disponible dans le dossier `docs` mais aussi [javadoc](https://aliaspedrokarim.github.io/KarimAndCo_Composant4/)_  
-_Une documentation utilisateur est aussi disponible [ici](https://docs.google.com/document/d/1v6MzYAcXDMMQzYLZLa2klrXSc6LA4_zX15RLvXv4bb8/edit)_
+La JavaDoc est disponible dans le dossier `docs` mais aussi [javadoc](https://aliaspedrokarim.github.io/KarimAndCo_Composant4/)  
+Une documentation utilisateur est aussi disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
 
 #### Pour utiliser les pleins capacités du logiciel il est conseillé d'avoir une base de données MySQL.
 
