@@ -33,6 +33,19 @@ Avec le logiciel Karim & Co, on peut :
 	- Importer et exporter les données des utilisateurs en JSON, XML et CSV,
 - **Exporter le CV en PDF**
 
+#### Dépendance
+_Pour ce qui concerne les dépendance voir le fichier `pom.xml`_
+
+<p align="center">
+
+[![Generic badge](https://img.shields.io/badge/weblaf-v1.2.9-success)](https://github.com/mgarin/weblaf) [![Generic badge](https://img.shields.io/badge/mysql--connector--j-v5.1.48-success)](https://github.com/mysql/mysql-connector-j)
+
+</p>
+
+#### Documentation
+_La JavaDoc est disponible dans le dossier `docs` mais aussi [javadoc](https://aliaspedrokarim.github.io/KarimAndCo_Composant4/)_  
+_Une documentation utilisateur est aussi disponible [ici](https://docs.google.com/document/d/1v6MzYAcXDMMQzYLZLa2klrXSc6LA4_zX15RLvXv4bb8/edit)_
+
 #### Pour utiliser les pleins capacités du logiciel il est conseillé d'avoir une base de données MySQL.
 
 #### Téléchargement du logiciel
