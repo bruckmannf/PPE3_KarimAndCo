@@ -12,30 +12,26 @@
 ---
 
 #### Introduction
-Dans le cadre des PPE, j'ai crée un logiciel en Java permettant de **créer** et de **gérer** un ou plusieurs **CV**. La création du logiciel a été facilitée avec l'aide de mes camarades qui ont réalisés par groupe de 2 ou 3, des **composants**. Le **but** de ce PPE était de **réunir** tous les composants, faire des **modifications**, et des **ajouts** afin de répondre à un besoin.
+Dans le cadre des PPE de la deuxième année de BTS SIO Option SLAM, j'ai conçu un logiciel Java permettant de **créer**/**gérer** un ou plusieurs **CV**. La création du logiciel Karim&Co a été facilitée avec l'aide de mes camarades qui ont réalisés par groupe des **composants**/**modules**. Le **but** de ce PPE était de **réunir** tous les composants, faire des **modifications**, et des **ajouts** afin de répondre à un besoin étant ici, faire un logiciel complet de création et de gestion des CV des étudiants.
 
 #### Fonctionnalités
-Avec ce logiciel on peut :
-- S'inscrire
-    - Vérification du format des informations saisies dans les champs
-    - Vérification si la date de naissance n'est pas erronée (via une API ou la base de données)
-    - Vérification du pays, du code postal et auto-complétion pour la ville (via une API) si ils sont réels
-    - Enregistrement d'une photo
-    - Saisie des mots de passe avec un clavier et chiffrement de ceux-ci sur la base de données
-    - Possibilité de faciliter l'inscription en se connectant via Google ou Facebook
-- Se connecter
-	- Saisie des mots de passe avec un clavier
-- Modifier les informations du compte après l'inscription
-- Créer et gérer un ou plusieurs CV
-	- Saisie du titre et description du CV
-	- Saisie d'une ou plusieurs expérience(s) professionnelle(s)
-	- Saisie d'une ou plusieurs formation(s)
-	- Saisie d'une ou plusieurs information(s) complémentaire(s)
-- Importer et exporter les données en JSON, XML, CSV (compte et/ou CV)
-- Accéder au panneau d'administration, avec un compte, qui a le rôle d'administrateur
-	- Création, modification, et suppression des comptes
-	- Importer et exporter les données d'un ou plusieurs compte(s) en JSON, XML, CSV
-- Exporter le CV en PDF
+Avec le logiciel Karim & Co, on peut :
+- **S'inscrire** :
+    - Vérification du format des informations saisies dans les champs,
+    - Vérification des différentes informations ( = date de naissance, pays etc...)
+    - Enregistrement d'une photo,
+    - Saisie des mots de passe avec un clavier et chiffrement de ceux-ci sur la base de données,
+- **Se connecter**
+- **Modifier les informations du compte de l'utilisateur après l'inscription**
+- **Créer et gérer un ou plusieurs CV** :
+	- Saisie du titre et description du CV,
+	- Saisie d'une ou plusieurs expérience(s) professionnelle(s),
+	- Saisie d'une ou plusieurs formation(s),
+	- Saisie d'une ou plusieurs information(s) complémentaire(s),
+- **Accéder à l'interface d'administration par un compte administrateur** :
+	- Création, modification, et suppression des comptes utilisateurs,
+	- Importer et exporter les données des utilisateurs en JSON, XML et CSV,
+- **Exporter le CV en PDF**
 
 #### Pour utiliser les pleins capacités du logiciel il est conseillé d'avoir une base de données MySQL.
 
