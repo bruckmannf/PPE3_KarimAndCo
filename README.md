@@ -50,7 +50,7 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 
 </p>
 
-#### Documentation
+#### DOCUMENTATION
 Le diagramme de classe est disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
 Une documentation utilisateur est aussi disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing)
 
@@ -59,9 +59,7 @@ Une documentation utilisateur est aussi disponible [ici](https://docs.google.com
 #### Téléchargement du logiciel
 - 1ère méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
     
-- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish` :
-
-![](file:///C:/Users/User/Desktop/hjny.JPG)
+- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`.
 
 ⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier PPE3_KarimAndCo.sql avec la plateforme **phpMyAdmin** !
 
