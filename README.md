@@ -51,8 +51,8 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 </p>
 
 #### DOCUMENTATION
-Le diagramme de classe est disponible [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
-Une documentation utilisateur est disponible aussi : [Document](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
+- Le diagramme de classe : [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
+- la documentation utilisateur : [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
 
 #### TELECHARGEMENT DU LOGICIEL
 - 1ère méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
