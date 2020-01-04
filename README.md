@@ -62,7 +62,6 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 
 #### INFORMATIONS IMPORTANTES
 - ⚠ Pour utiliser les pleines capacités du logiciel, il est conseillé d'avoir une base de données **MySQL**.
-- ⚠ Si vous utiliser votre base de données, n'oubliez pas d'importer le fichier PPE3_KarimAndCo.sql avec la plateforme **phpMyAdmin** !
 - ⚠ N'oubliez pas de télécharger les dépendances pour le bon fonctionnement du logiciel !
 
 #### CREDIT
