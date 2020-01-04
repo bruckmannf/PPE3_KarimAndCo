@@ -56,9 +56,9 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 - la documentation utilisateur : [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
 
 #### TELECHARGEMENT DU LOGICIEL
-- 1ère méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → aller dans le dossier des téléchargements → extraire le logiciel du fichier .zip
+- Première méthode :  [cliquez-ici](https://github.com/Geleetz/PPE3_KarimAndCo/archive/master.zip)  → allez dans le dossier des téléchargements → extraire le logiciel du fichier .zip → ouvrez le logiciel `Netbeans` ( version 8.2 de préférence ) → cliquez sur `File` → cliquez sur `Open project`.
     
-- 2ème méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`.
+- Deuxième méthode : ouvrir Netbeans → aller dans l'onglet  `Team`  → puis aller dans  `Git`  → et enfin dans  `Clone`  → mettre ce lien :  [https://github.com/Geleetz/PPE3_KarimAndCo.git]()  dans  `Repository URL`  → et cliquer sur  `Finish`.
 
 #### INFORMATIONS IMPORTANTES
 - ⚠ Pour utiliser les pleines capacités du logiciel, il est conseillé d'avoir une base de données **MySQL**.
