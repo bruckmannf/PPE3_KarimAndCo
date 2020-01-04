@@ -16,7 +16,6 @@
 Dans le cadre des PPE de la deuxième année de BTS SIO Option SLAM, j'ai conçu un logiciel Java permettant de **créer**/**gérer** un ou plusieurs **CV**. La création du logiciel Karim&Co a été facilitée avec l'aide de mes camarades qui ont réalisés par groupe des **composants**/**modules**. Le **but** de ce PPE était de **réunir** tous les composants, faire des **modifications**, et des **ajouts** afin de répondre à un besoin étant ici, faire un logiciel complet de création et de gestion des CV des étudiants.
 
 #### FONCTIONNALITES
-Avec le logiciel Karim & Co, on peut :
 - **S'inscrire** :
     - Vérification du format des informations saisies dans les champs,
     - Vérification des différentes informations ( = date de naissance, pays etc...)
