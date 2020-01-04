@@ -51,7 +51,6 @@ Pour ce qui concerne les dépendance voir le fichier `pom.xml`
 </p>
 
 #### DOCUMENTATION
-- Le diagramme de classe : [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
 - la documentation utilisateur : [ici](https://docs.google.com/document/d/1oIMxQ898wdkRi-pWkqLaBM4AR4ZLcovMUhIvGPGQCIc/edit?usp=sharing).
 
 #### TELECHARGEMENT DU LOGICIEL
